@@ -53,10 +53,9 @@ El prototipo no funcional incluye las pantallas principales de la aplicación:
 
 ---
 
-## 👨‍💻 Integrantes
+## 👨‍💻 Integrante
 
-- [Nombre del estudiante]  
-- [Nombre del compañero si aplica]
+- Marcelo Banchieri 
 
 ---
 
